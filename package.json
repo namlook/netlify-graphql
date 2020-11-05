@@ -1,7 +1,7 @@
 {
-  "name": "netlify-typescript",
+  "name": "netlify-graphql",
   "version": "1.0.0",
-  "description": "A netlify starter kit with typescript and airbnb config",
+  "description": "A netlify starter kit with typescript, airbnb config and graphql",
   "main": "index.js",
   "author": "Namlook",
   "license": "MIT",
